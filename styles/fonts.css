@@ -1,0 +1,12 @@
+@font-face {
+    font-family:'alcotton' ;
+    src: local(alcotton),url('../fonts/alcotton.ttf')
+}
+@font-face {
+    font-family:'inter-Medium' ;
+    src: url('../fonts/Inter-Medium.otf');
+}
+@font-face {
+    font-family:'inter-Regular';
+    src: url(../fonts/Inter-Regular.otf);
+}
